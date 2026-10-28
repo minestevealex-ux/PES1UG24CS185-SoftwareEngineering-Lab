@@ -1,0 +1,11 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated warehouse data
+lab5-static-code-analysis/warehouse.json
+lab5-static-code-analysis/warehouse_audit.log
